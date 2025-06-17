@@ -68,16 +68,32 @@ This Power BI dashboard provides dynamic visual insights into various sales metr
 
 ---
 
-## 📊 Sample Visuals
+## 📊 ElectroHub Dashboard Visuals
 
-*(You can add dashboard screenshots here if needed using the GitHub "Upload" feature)*
+### 🔹 1. Overview
+![Overview](./assets/Dashboards/Overview.png)
+
+---
+
+### 🔹 2. Top & Bottom 5 Products by Sales, Profit, Quantity Sold
+![Top and Bottom 5 Analysis](./assets/Dashboards/Top%20and%20Bottom%205%20Sales%20Profit%20Quantity%20Analysis.png)
+
+---
+
+### 🔹 3. Comparison of Sales, Profit & Quantity Between Two Time Periods
+![Comparison](./assets/Dashboards/Comparison%20Sales%20Profit%20Qunality.png)
+
+---
+
+### 🔹 4. Order-Level Table with Filters (Date, Customer, Product, Promotion)
+![Table Visuals](./assets/Dashboards/Table%20Visuals.png)
 
 ---
 
 ## 🙋‍♂️ About Me
 
 **👨‍💼 Dhruv Nirwan**  
-Data Analyst | Power BI | SQL | Excel | Python  | 
+Data Analyst | Power BI | SQL | Excel | Python  | Snowflake | Cloud (AWS,Azure,GCP)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-nirwan)  
 📧 dhruvnirwan836@gmail.com
